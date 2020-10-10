@@ -1,5 +1,5 @@
 # Data-scraping
-Zomato website Data scrapings
+Zomato website Data scraping
 
 This is a python script to perform data scraping from one of the top rated food websites, Zomato.
 I've written a python script to extract restaurant name, restaurant address and restaurant phone numbers.
