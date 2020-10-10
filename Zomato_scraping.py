@@ -3,7 +3,8 @@
 from bs4 import BeautifulSoup # need to pip install bs4 for BeautifulSoup to work which is used to work on html sources
 from selenium import webdriver #need to pip install selenium for automated website login otherwise you won't be able to access a website
 from selenium.webdriver.common.by import By
-import time
+#import time
+import requests
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 #uptil here all classes required for selenium to work seemlessly
