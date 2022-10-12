@@ -140,4 +140,3 @@ driver.quit()                      # ends the automated test window from where w
 
 
 # The data scraping process is a real time rendition of the current webpage of zomato
-# The data scraping process is a real time rendition of the current webpage of zomato
