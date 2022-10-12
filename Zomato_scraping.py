@@ -21,7 +21,6 @@ PATH= "C:\Program Files (x86)\chromedriver.exe"   # this is the location of the 
 url="https://www.zomato.com/ncr/connaught-place-delhi-restaurants" # url of the root webpage from where you want to start your data scrapping
 
 # The script works only for zomato website
-# The script works only for zomato website
 
 # BEFORE RUNNING THE SCRIPT, MAKE SURE YOU ARE CONNECTED TO A STABLE INTERNET CONNECTION
 
