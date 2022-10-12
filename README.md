@@ -7,6 +7,7 @@ This process is continued until the last page is reached on the website or is ex
 Once all the pages have been scraped, it is written into an excel file in human readable style.
 
 Go nuts, with your data.
+Go nuts, with your data.
 
 ## How to use
 
